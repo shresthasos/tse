@@ -1,0 +1,14 @@
+{
+  "sample_rate": 16000,
+  "n_fft": 512,
+  "hop_length": 128,
+  "num_bands": 8,
+  "hidden_size": 96,
+  "embedding_dim": 192,
+  "seed": 42,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "si_sdr_loss_weight": 1.0,
+  "wave_l1_loss_weight": 0.1,
+  "gradient_clip": 5.0
+}

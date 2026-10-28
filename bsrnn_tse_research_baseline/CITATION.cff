@@ -1,0 +1,4 @@
+cff-version: 1.2.0
+message: "Cite this repository version and the source datasets/pretrained models used."
+title: "BSRNN-Based Target Speaker Enhancement Research Baseline"
+type: software
